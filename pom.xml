@@ -10,7 +10,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <!-- Aquí agregamos la descripción con tu nombre -->
     <description>Jordy Esteban - Proyecto Maven Git</description>
 
 </project>
