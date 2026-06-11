@@ -1,0 +1,14 @@
+# Maven
+target/
+*.jar
+*.war
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Otros
+*.log
+.DS_Store
